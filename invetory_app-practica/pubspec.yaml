@@ -36,6 +36,10 @@ dependencies:
   intl: ^0.20.2
   provider: ^6.1.5
 
+  firebase_core: ^2.10.0
+ # firebase_auth: ^4.4.0         # si usarás autenticación
+  cloud_firestore: ^4.5.0 
+
 dev_dependencies:
   flutter_lints: ^5.0.0
   flutter_test:
